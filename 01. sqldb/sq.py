@@ -11,7 +11,7 @@
 # driver = webdriver.Chrome(service=webdriver_service)
 
 # d = []
-# driver.get('https://www.zalando.es/release-calendar/zapatillas-mujer/')
+# driver.get('https://www.example.com')
 # driver.maximize_window()
 # time.sleep(5)
 

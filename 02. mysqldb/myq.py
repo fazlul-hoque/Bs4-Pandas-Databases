@@ -24,7 +24,7 @@
 
 # conn = create_engine('mysql://root:password@localhost/myquote_db') # enter your password and database names here
 # d = []
-# driver.get('https://www.zalando.es/release-calendar/zapatillas-mujer/')
+# driver.get('https://www.example.com')
 # driver.maximize_window()
 # time.sleep(5)
 
